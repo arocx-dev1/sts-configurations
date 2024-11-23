@@ -1,0 +1,29 @@
+.trapezoid-container {
+    padding: 10px;
+    background-color: #d7d7d7;
+    border-radius: 10px;
+   
+}
+
+.trapezoid {
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(47% 0%, 53% 0, 100% 15%, 100% 100%, 0 100%, 0 15%);
+    background-color: white;
+    padding-top: 70px;
+}
+
+.reverse-trapezoid {
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(100% 0, 100% 90%, 80% 100%, 20% 100%, 0 90%, 0 0);
+    background-color: white;
+}
+
+.silo-container {
+    width: 50%;
+}
+
+.silo-note {
+    width: 70%;
+}

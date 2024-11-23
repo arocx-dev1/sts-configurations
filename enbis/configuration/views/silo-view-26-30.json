@@ -1,0 +1,97 @@
+{
+  "viewId" : "00000000-0000-0000-0000-000000000006",
+  "order" : 6,
+  "name" : "Silo-26-27-28-29-30",
+  "siloConfigs": [
+    {
+      "siloId" : "11111111-1111-1111-1111-000000000026",
+      "order" : 1,
+      "name": "Silo-26",
+      "relayBinding": "D1-C26",
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R6",
+        "C1",
+        "S6",
+        "S5",
+        "S4",
+        "S3",
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "siloId" : "11111111-1111-1111-1111-000000000027",
+      "order" : 2,
+      "name": "Silo-27",
+      "relayBinding": "D1-C27",
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R6",
+        "C2",
+        "S6",
+        "S5",
+        "S4",
+        "S3",
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "siloId" : "11111111-1111-1111-1111-000000000028",
+      "order" : 3,
+      "name": "Silo-28",
+      "relayBinding": "D1-C28",
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R6",
+        "C3",
+        "S6",
+        "S5",
+        "S4",
+        "S3",
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "siloId" : "11111111-1111-1111-1111-000000000029",
+      "order" : 4,
+      "name": "Silo-29",
+      "relayBinding": "D1-C29",
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R6",
+        "C4",
+        "S6",
+        "S5",
+        "S4",
+        "S3",
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "siloId" : "11111111-1111-1111-1111-000000000030",
+      "order" : 5,
+      "name": "Silo-30",
+      "relayBinding": "D1-C30",
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R6",
+        "C5",
+        "S6",
+        "S5",
+        "S4",
+        "S3",
+        "S2",
+        "S1"
+      ]
+    }
+  ]
+}

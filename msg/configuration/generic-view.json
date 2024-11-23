@@ -1,0 +1,519 @@
+{
+  "board": {
+    "name": "Demo Generic View"
+  },
+  "labels": [
+    {
+      "label": "Depo-5",
+      "positionX": 120,
+      "positionY": 25
+    },
+	 {
+      "label": "Depo-4",
+      "positionX": 380,
+      "positionY": 25
+    },
+	 {
+      "label": "Depo-3",
+      "positionX": 640,
+      "positionY": 25
+    },
+	 {
+      "label": "Depo-2",
+      "positionX": 900,
+      "positionY": 25
+    },
+	 {
+      "label": "Depo-1",
+      "positionX": 1160,
+      "positionY": 25
+    },
+    {
+      "label": "Kapı-5",
+      "positionX": 120,
+      "positionY": 590
+    },
+	{
+      "label": "Kapı-4",
+      "positionX": 380,
+      "positionY": 590
+    },
+	{
+      "label": "Kapı-3",
+      "positionX": 640,
+      "positionY": 590
+    },
+	{
+      "label": "Kapı-2",
+      "positionX": 900,
+      "positionY": 590
+    },
+	{
+      "label": "Kapı-1",
+      "positionX": 1160,
+      "positionY": 590
+    }
+  ],
+  "elements": [
+	{
+      "type": "CONTROL_CENTER",
+      "label": "Kontrol Odası",
+      "sizeX": 400,
+      "sizeY": 60,
+      "positionX": 460,
+      "positionY": 650
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000021",
+      "siloId": "11111111-1111-1111-1111-000000000037",
+      "label": "Depo-5-Kısım-1",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 50
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000021",
+      "siloId": "11111111-1111-1111-1111-000000000038",
+      "label": "Depo-5-Kısım-2",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 110
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000022",
+      "siloId": "11111111-1111-1111-1111-000000000039",
+      "label": "Depo-5-Kısım-3",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 170
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000022",
+      "siloId": "11111111-1111-1111-1111-000000000040",
+      "label": "Depo-5-Kısım-4",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 230
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000023",
+      "siloId": "11111111-1111-1111-1111-000000000041",
+      "label": "Depo-5-Kısım-5",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 290
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000023",
+      "siloId": "11111111-1111-1111-1111-000000000042",
+      "label": "Depo-5-Kısım-6",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 350
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000024",
+      "siloId": "11111111-1111-1111-1111-000000000043",
+      "label": "Depo-5-Kısım-7",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 410
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000024",
+      "siloId": "11111111-1111-1111-1111-000000000044",
+      "label": "Depo-5-Kısım-8",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 470
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000025",
+      "siloId": "11111111-1111-1111-1111-000000000045",
+      "label": "Depo-5-Kısım-9",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 50,
+      "positionY": 530
+    },
+	 {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000016",
+      "siloId": "11111111-1111-1111-1111-000000000028",
+      "label": "Depo-4-Kısım-1",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 50
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000016",
+      "siloId": "11111111-1111-1111-1111-000000000029",
+      "label": "Depo-4-Kısım-2",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 110
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000017",
+      "siloId": "11111111-1111-1111-1111-000000000030",
+      "label": "Depo-4-Kısım-3",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 170
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000017",
+      "siloId": "11111111-1111-1111-1111-000000000031",
+      "label": "Depo-4-Kısım-4",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 230
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000018",
+      "siloId": "11111111-1111-1111-1111-000000000032",
+      "label": "Depo-4-Kısım-5",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 290
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000018",
+      "siloId": "11111111-1111-1111-1111-000000000033",
+      "label": "Depo-4-Kısım-6",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 350
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000019",
+      "siloId": "11111111-1111-1111-1111-000000000034",
+      "label": "Depo-4-Kısım-7",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 410
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000019",
+      "siloId": "11111111-1111-1111-1111-000000000035",
+      "label": "Depo-4-Kısım-8",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 470
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000020",
+      "siloId": "11111111-1111-1111-1111-000000000036",
+      "label": "Depo-4-Kısım-9",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 310,
+      "positionY": 530
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000011",
+      "siloId": "11111111-1111-1111-1111-000000000019",
+      "label": "Depo-3-Kısım-1",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 50
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000011",
+      "siloId": "11111111-1111-1111-1111-000000000020",
+      "label": "Depo-3-Kısım-2",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 110
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000012",
+      "siloId": "11111111-1111-1111-1111-000000000021",
+      "label": "Depo-3-Kısım-3",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 170
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000012",
+      "siloId": "11111111-1111-1111-1111-000000000022",
+      "label": "Depo-3-Kısım-4",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 230
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000013",
+      "siloId": "11111111-1111-1111-1111-000000000023",
+      "label": "Depo-3-Kısım-5",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 290
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000013",
+      "siloId": "11111111-1111-1111-1111-000000000024",
+      "label": "Depo-3-Kısım-6",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 350
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000014",
+      "siloId": "11111111-1111-1111-1111-000000000025",
+      "label": "Depo-3-Kısım-7",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 410
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000014",
+      "siloId": "11111111-1111-1111-1111-000000000026",
+      "label": "Depo-3-Kısım-8",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 470
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000015",
+      "siloId": "11111111-1111-1111-1111-000000000027",
+      "label": "Depo-3-Kısım-9",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 570,
+      "positionY": 530
+    },
+	 {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000006",
+      "siloId": "11111111-1111-1111-1111-000000000010",
+      "label": "Depo-2-Kısım-1",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 50
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000006",
+      "siloId": "11111111-1111-1111-1111-000000000011",
+      "label": "Depo-2-Kısım-2",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 110
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000007",
+      "siloId": "11111111-1111-1111-1111-000000000012",
+      "label": "Depo-2-Kısım-3",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 170
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000007",
+      "siloId": "11111111-1111-1111-1111-000000000013",
+      "label": "Depo-2-Kısım-4",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 230
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000008",
+      "siloId": "11111111-1111-1111-1111-000000000014",
+      "label": "Depo-2-Kısım-5",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 290
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000008",
+      "siloId": "11111111-1111-1111-1111-000000000015",
+      "label": "Depo-2-Kısım-6",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 350
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000009",
+      "siloId": "11111111-1111-1111-1111-000000000016",
+      "label": "Depo-2-Kısım-7",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 410
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000009",
+      "siloId": "11111111-1111-1111-1111-000000000017",
+      "label": "Depo-2-Kısım-8",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 470
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000010",
+      "siloId": "11111111-1111-1111-1111-000000000018",
+      "label": "Depo-2-Kısım-9",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 830,
+      "positionY": 530
+    },
+	    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000001",
+      "siloId": "11111111-1111-1111-1111-000000000001",
+      "label": "Depo-1-Kısım-1",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 50
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000001",
+      "siloId": "11111111-1111-1111-1111-000000000002",
+      "label": "Depo-1-Kısım-2",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 110
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000002",
+      "siloId": "11111111-1111-1111-1111-000000000003",
+      "label": "Depo-1-Kısım-3",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 170
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000002",
+      "siloId": "11111111-1111-1111-1111-000000000004",
+      "label": "Depo-1-Kısım-4",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 230
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000003",
+      "siloId": "11111111-1111-1111-1111-000000000005",
+      "label": "Depo-1-Kısım-5",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 290
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000003",
+      "siloId": "11111111-1111-1111-1111-000000000006",
+      "label": "Depo-1-Kısım-6",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 350
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000004",
+      "siloId": "11111111-1111-1111-1111-000000000007",
+      "label": "Depo-1-Kısım-7",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 410
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000004",
+      "siloId": "11111111-1111-1111-1111-000000000008",
+      "label": "Depo-1-Kısım-8",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 470
+    },
+    {
+      "type": "SQUARE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000005",
+      "siloId": "11111111-1111-1111-1111-000000000009",
+      "label": "Depo-1-Kısım-9",
+      "sizeX": 200,
+      "sizeY": 50,
+      "positionX": 1090,
+      "positionY": 530
+    }
+  
+    
+  ]
+}

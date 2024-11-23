@@ -1,0 +1,411 @@
+{
+  "board" : {
+    "name" : "Demo Generic View"
+  },
+  "elements" : [
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000002",
+      "siloId" : "11111111-1111-1111-1111-000000000010",
+      "label" : "Silo-10",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 50,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000002",
+      "siloId" : "11111111-1111-1111-1111-000000000009",
+      "label" : "Silo-9",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 190,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000002",
+      "siloId" : "11111111-1111-1111-1111-000000000008",
+      "label" : "Silo-8",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 330,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000002",
+      "siloId" : "11111111-1111-1111-1111-000000000007",
+      "label" : "Silo-7",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 470,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000002",
+      "siloId" : "11111111-1111-1111-1111-000000000006",
+      "label" : "Silo-6",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 610,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000001",
+      "siloId" : "11111111-1111-1111-1111-000000000005",
+      "label" : "Silo-5",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 750,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000001",
+      "siloId" : "11111111-1111-1111-1111-000000000004",
+      "label" : "Silo-4",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 890,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000001",
+      "siloId" : "11111111-1111-1111-1111-000000000003",
+      "label" : "Silo-3",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1030,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000001",
+      "siloId" : "11111111-1111-1111-1111-000000000002",
+      "label" : "Silo-2",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1170,
+      "positionY" : 50
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000001",
+      "siloId" : "11111111-1111-1111-1111-000000000001",
+      "label" : "Silo-1",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1310,
+      "positionY" : 50
+    },
+
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000004",
+      "siloId" : "11111111-1111-1111-1111-000000000020",
+      "label" : "Silo-20",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 50,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000004",
+      "siloId" : "11111111-1111-1111-1111-000000000019",
+      "label" : "Silo-19",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 190,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000004",
+      "siloId" : "11111111-1111-1111-1111-000000000018",
+      "label" : "Silo-18",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 330,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000004",
+      "siloId" : "11111111-1111-1111-1111-000000000017",
+      "label" : "Silo-17",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 470,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000004",
+      "siloId" : "11111111-1111-1111-1111-000000000016",
+      "label" : "Silo-16",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 610,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000003",
+      "siloId" : "11111111-1111-1111-1111-000000000015",
+      "label" : "Silo-15",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 750,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000003",
+      "siloId" : "11111111-1111-1111-1111-000000000014",
+      "label" : "Silo-14",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 890,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000003",
+      "siloId" : "11111111-1111-1111-1111-000000000013",
+      "label" : "Silo-13",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1030,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000003",
+      "siloId" : "11111111-1111-1111-1111-000000000012",
+      "label" : "Silo-12",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1170,
+      "positionY" : 190
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000003",
+      "siloId" : "11111111-1111-1111-1111-000000000011",
+      "label" : "Silo-11",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1310,
+      "positionY" : 190
+    },
+
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000006",
+      "siloId" : "11111111-1111-1111-1111-000000000030",
+      "label" : "Silo-30",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 50,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000006",
+      "siloId" : "11111111-1111-1111-1111-000000000029",
+      "label" : "Silo-29",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 190,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000006",
+      "siloId" : "11111111-1111-1111-1111-000000000028",
+      "label" : "Silo-28",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 330,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000006",
+      "siloId" : "11111111-1111-1111-1111-000000000027",
+      "label" : "Silo-27",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 470,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000006",
+      "siloId" : "11111111-1111-1111-1111-000000000026",
+      "label" : "Silo-26",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 610,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000005",
+      "siloId" : "11111111-1111-1111-1111-000000000025",
+      "label" : "Silo-25",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 750,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000005",
+      "siloId" : "11111111-1111-1111-1111-000000000024",
+      "label" : "Silo-24",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 890,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000005",
+      "siloId" : "11111111-1111-1111-1111-000000000023",
+      "label" : "Silo-23",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1030,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000005",
+      "siloId" : "11111111-1111-1111-1111-000000000022",
+      "label" : "Silo-22",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1170,
+      "positionY" : 330
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000005",
+      "siloId" : "11111111-1111-1111-1111-000000000021",
+      "label" : "Silo-21",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1310,
+      "positionY" : 330
+    },
+
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000008",
+      "siloId" : "11111111-1111-1111-1111-000000000040",
+      "label" : "Silo-40",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 50,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000008",
+      "siloId" : "11111111-1111-1111-1111-000000000039",
+      "label" : "Silo-39",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 190,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000008",
+      "siloId" : "11111111-1111-1111-1111-000000000038",
+      "label" : "Silo-38",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 330,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000008",
+      "siloId" : "11111111-1111-1111-1111-000000000037",
+      "label" : "Silo-37",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 470,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000008",
+      "siloId" : "11111111-1111-1111-1111-000000000036",
+      "label" : "Silo-36",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 610,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000007",
+      "siloId" : "11111111-1111-1111-1111-000000000035",
+      "label" : "Silo-35",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 750,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000007",
+      "siloId" : "11111111-1111-1111-1111-000000000034",
+      "label" : "Silo-34",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 890,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000007",
+      "siloId" : "11111111-1111-1111-1111-000000000033",
+      "label" : "Silo-33",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1030,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000007",
+      "siloId" : "11111111-1111-1111-1111-000000000032",
+      "label" : "Silo-32",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1170,
+      "positionY" : 470
+    },
+    {
+      "type" : "SQUARE_SILO",
+      "viewId" : "00000000-0000-0000-0000-000000000007",
+      "siloId" : "11111111-1111-1111-1111-000000000031",
+      "label" : "Silo-31",
+      "sizeX" : 120,
+      "sizeY" : 120,
+      "positionX" : 1310,
+      "positionY" : 470
+    }
+
+  ]
+}

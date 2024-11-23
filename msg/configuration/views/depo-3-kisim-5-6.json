@@ -1,0 +1,41 @@
+{
+  "viewId" : "00000000-0000-0000-0000-000000000013",
+  "order" : 13,
+  "name" : "Depo-3-Kısım-5-6",
+  "siloConfigs": [
+    {
+      "siloId" : "11111111-1111-1111-1111-000000000023",
+      "order" : 1,
+      "name": "Depo-3-Kısım-5",
+      "relayBinding": null,
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R6,R6,R4,R4",
+		"C89,C90,C91,C92",
+        "S5,S5,S5,S5",
+        "S4,S4,S4,S4",
+        "S3,S3,S3,S3",
+        "S2,S2,S2,S2",
+        "S1,S1,S1,S1"
+      ]
+    },
+	 {
+      "siloId" : "11111111-1111-1111-1111-000000000024",
+      "order" : 2,
+      "name": "Depo-3-Kısım-6",
+      "relayBinding": null,
+      "upperAlarmValue": 24.0,
+      "lowerAlarmValue": 12.0,
+      "bindings": [
+        "R7,R7,R5,R5",
+		"C93,C94,C95,C96",
+        "S5,S5,S5,S5",
+        "S4,S4,S4,S4",
+        "S3,S3,S3,S3",
+        "S2,S2,S2,S2",
+        "S1,S1,S1,S1"
+      ]
+    }
+  ]
+}
