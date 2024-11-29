@@ -9,12 +9,11 @@ restServer:
   port: 8000
 serial:
   rtuPorts:
-    - COM9
-    - COM3
+    - COM8
   relay:
-    port: COM1
+    port: COM11
     powerRelay:
-      address: 0xFE
+      address: 0x01
       channel: 0
   delay:
     sensorChargeDelayAsMillisecond: 1500
