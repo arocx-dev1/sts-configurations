@@ -2,6 +2,7 @@
   "board" : {
     "name" : "Demo Generic View"
   },
+  "labels" : [],
   "elements" : [
     {
       "type" : "SQUARE_SILO",

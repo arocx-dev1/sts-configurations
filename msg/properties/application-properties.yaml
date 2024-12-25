@@ -20,3 +20,4 @@ serial:
     additionalDelayAfterMeasurementAsSecond: 40
     delayAfterRTURelayOpenAsSecond: 10
     delayAfterSyncMessageResponseAsMillisecond: 2000
+fake: true

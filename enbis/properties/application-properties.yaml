@@ -9,10 +9,9 @@ restServer:
   port: 8000
 serial:
   rtuPorts:
-    - COM9
-    - COM3
+    - COM4
   relay:
-    port: COM1
+    port: COM3
     powerRelay:
       address: 0xFE
       channel: 0
@@ -24,3 +23,4 @@ serial:
     additionalDelayAfterMeasurementAsSecond: 40
     delayAfterRTURelayOpenAsSecond: 10
     delayAfterSyncMessageResponseAsMillisecond: 2000
+fake: false
