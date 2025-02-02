@@ -1,0 +1,25 @@
+dataSource:
+  host: localhost
+  port: 5432
+  dbName: silo_dev
+  user: root
+  password: root
+restServer:
+  applicationPath: /sts/v1
+  port: 8000
+serial:
+  rtuPorts:
+    - COM6
+  relay:
+    port: COM3
+    powerRelay:
+      address: 0x01
+      channel: 0
+    controlRelayAddresses:
+      - 1
+  delay:
+    sensorChargeDelayAsMillisecond: 1500
+    additionalDelayAfterMeasurementAsSecond: 40
+    delayAfterRTURelayOpenAsSecond: 10
+    delayAfterSyncMessageResponseAsMillisecond: 2000
+fake: false

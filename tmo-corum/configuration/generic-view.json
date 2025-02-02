@@ -1,0 +1,96 @@
+{
+  "board": {
+    "name": "Demo Generic View"
+  },
+  "labels": [],
+  "elements": [
+    {
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000005",
+      "siloId": "11111111-1111-1111-1111-000000000005",
+      "label": "Silo-5",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 50,
+      "positionY": 100
+    },
+	 {
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000001",
+      "siloId": "11111111-1111-1111-1111-000000000001",
+      "label": "Silo-1",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 50,
+      "positionY": 400
+    },
+	{
+      "type": "CONTROL_CENTER",
+      "label": "Kontrol Odası",
+      "sizeX": 100,
+      "sizeY": 200,
+      "positionX": 300,
+      "positionY": 250
+    },
+	{
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000006",
+      "siloId": "11111111-1111-1111-1111-000000000006",
+      "label": "Silo-6",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 450,
+      "positionY": 100
+    },
+	 {
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000002",
+      "siloId": "11111111-1111-1111-1111-000000000002",
+      "label": "Silo-2",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 450,
+      "positionY": 400
+    },
+	{
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000007",
+      "siloId": "11111111-1111-1111-1111-000000000007",
+      "label": "Silo-7",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 750,
+      "positionY": 100
+    },
+	 {
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000003",
+      "siloId": "11111111-1111-1111-1111-000000000003",
+      "label": "Silo-3",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 750,
+      "positionY": 400
+    },
+	{
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000008",
+      "siloId": "11111111-1111-1111-1111-000000000008",
+      "label": "Silo-8",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 1050,
+      "positionY": 100
+    },
+	 {
+      "type": "CIRCLE_SILO",
+      "viewId": "00000000-0000-0000-0000-000000000004",
+      "siloId": "11111111-1111-1111-1111-000000000004",
+      "label": "Silo-4",
+      "sizeX": 200,
+      "sizeY": 200,
+      "positionX": 1050,
+      "positionY": 400
+    }
+  ]
+}
